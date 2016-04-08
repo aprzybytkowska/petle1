@@ -1,0 +1,6 @@
+E:\Szkoła\sem6\Cyberprzestrzen\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Szkoła\sem6\Cyberprzestrzen\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Szkoła\sem6\Cyberprzestrzen\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Szkoła\sem6\Cyberprzestrzen\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Szkoła\sem6\Cyberprzestrzen\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Szkoła\sem6\Cyberprzestrzen\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
